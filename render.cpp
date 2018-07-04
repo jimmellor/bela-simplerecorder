@@ -6,7 +6,7 @@
 
 using namespace std;
 
-// Filename to record to. This must be created before this example is run.
+// Filename to record to
 string gRecordTrackName = "record.wav";
 
 bool gBufferWriting = false; // know when the buffer has written to disk
